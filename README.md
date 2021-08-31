@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @TobiasAnderer
+- 👀 I’m interested in massive Dynamics Coding
+- 🌱 I’m currently learning PHP
+- 💞️ I’m looking to collaborate on my Bankaccount
+- 📫 How to reach me, better run!
